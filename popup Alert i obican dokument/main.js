@@ -1,0 +1,1 @@
+alert("ovo je prvi popup iz eksternog fajla")
